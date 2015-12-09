@@ -1,0 +1,131 @@
+/* Temporary CSS copied from ionic 1 app - stit2ionapp */
+body {
+  background-color: #2B2D25;
+}
+
+/* STITCHED UP colours
+$han1-base-color: hsla(355, 100%, 40%, 1); = #CC0011 assertive
+$han2-base-color: hsla(134, 100%, 25%, 1); = #00801E positive
+$jo1-base-color: hsla(56, 100%, 40%, 1); =  #CCBE00 calm
+$jo2-base-color: hsla(296, 100%, 30%, 1); = #8F0099 royal
+Sarah1 = #0073FF balanced
+Sarah2 = #FFAA00 energized
+*/
+.bg-han-light {
+  background-color: #71997C;
+  position: relative; }
+
+.bg-joel-light {
+  background-color: #A29B61;
+  position: relative; }
+
+.bg-han {
+  background-color: #00250c;
+  position: relative; }
+
+.bg-joel {
+  background-color: #3a3400;
+  position: relative; }
+
+.bg-sar {
+  background-color: rgba(0, 115, 255, 0.25);
+  position: relative; }
+
+.bg-other {
+  position: relative; }
+
+.bg-police {
+  background-color: #e1e1e1; }
+
+.bg-home {
+  background-color: #D4BF9F; }
+
+.j-think {
+  color: #e5c6e2;
+  font-size: 16px; }
+
+.j-speak {
+  color: #e0d200;
+  font-size: 16px; }
+
+.s-think {
+  color: #9f6600;
+  font-size: 16px; }
+
+.s-speak {
+  color: #005ebb;
+  font-size: 16px; }
+
+.h-speak {
+  color: #9ee499;
+  font-size: 16px; }
+
+.o-speak {
+  font-size: 16px; }
+
+.border-joel {
+  border: 1px solid #ab9d00; }
+
+.border-han {
+  border: 1px solid #00801E; }
+
+.border-sar {
+  border: 1px solid #0073FF; }
+
+.border-other {
+  border: 1px solid #7d7d7d; }
+
+.hgt100 {
+  height: 100%; }
+
+.hgt90 {
+  height: 90%; }
+
+.hgt50 {
+  height: 50%; }
+
+.hgt33 {
+  height: 33.3333%; }
+
+.hgt25 {
+  height: 25%; }
+
+.hgt20 {
+  height: 20%; }
+
+.hgt10 {
+  height: 10%; }
+
+/* nav height matches buttons + their margin */
+.nav {
+  height: 48px; }
+
+.top25 {
+  position: absolute;
+  top: 25%; }
+
+.top33 {
+  position: absolute;
+  top: 33%; }
+
+.top50 {
+  position: absolute;
+  top: 50%; }
+
+.top66 {
+  position: absolute;
+  top: 66%; }
+
+.top90 {
+  position: absolute;
+  top: 90%; }
+
+.topoffset {
+  position: relative;
+  top: 15%; }
+
+.pull-left {
+  float: left; }
+
+.pull-right {
+  float: right; }

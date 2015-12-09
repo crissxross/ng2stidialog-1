@@ -4,8 +4,10 @@ import {Header} from '../header/header'
 @Component({
 	selector: 'app',
 	template: `
-	  <app-header></app-header>
+	<div class="container hgt100 bg-home">
+		<app-header></app-header>
 		<div>Hello Angular2!</div>
+	</div>
 	`,
 	directives: [Header]
 })
