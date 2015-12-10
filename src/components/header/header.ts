@@ -5,8 +5,8 @@ import {ROUTER_DIRECTIVES} from 'angular2/router';
 	selector: 'app-header',
 	template: `
         <div class="row nav">
-            <a class="button button-primary" [router-link]="['Home']">{{title}}</a>
-            <a class="button button-primary" [router-link]="['Scene']">Scene</a>
+            <a class="button button-primary" [routerLink]="['Home']">{{title}}</a>
+            <a class="button button-primary" [routerLink]="['Scene']">Scene</a>
         </div>
 	`,
 	directives: [ROUTER_DIRECTIVES]
