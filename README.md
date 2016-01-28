@@ -1,10 +1,8 @@
-## Stitched Up Prototype Dialogue Engine
+## Temp Stitched Up Prototype Dialogue Engine
 
-Work in progress...
+CEASED work in progress on this repo
 
-### Started from angular2-seed
-
-**robwormald/angular2-seed** - a simple starter project demonstrating the basic concepts of Angular2. Work in progress! Uses webpack.
+Started from **robwormald/angular2-seed** - a simple starter project demonstrating the basic concepts of Angular2. Work in progress! Uses webpack.
 
 ### Usage
 - Clone or fork this repository
